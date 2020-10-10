@@ -1,0 +1,31 @@
+job :
+    -titel
+    -location
+    -job type
+    -description
+    - published at 
+    -vacancy
+    - salry
+    -category
+    - experience
+    - gender 
+
+    - apply job 
+    - post job
+ blog:
+      titel
+      description
+      created_at
+      category_at
+      category
+      tags
+      author
+
+      search
+      comment 
+      recent posts
+
+contact :
+Home 
+
+login 
